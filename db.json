@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "TaskFlow",
+      "category": "Full Stack",
+      "year": 2026,
+      "description": "A collaborative task management application with project boards, filters, and activity tracking.",
+      "technologies": "React, Node.js, PostgreSQL",
+      "image": "https://picsum.photos/seed/taskflow/600/400",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example/taskflow"
+    },
+    {
+      "id": 2,
+      "title": "Weatherly",
+      "category": "Frontend",
+      "year": 2025,
+      "description": "A responsive weather dashboard with location search and animated forecast cards.",
+      "technologies": "React, CSS, OpenWeather API",
+      "image": "https://picsum.photos/seed/weatherly/600/400",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example/weatherly"
+    },
+    {
+      "id": 3,
+      "title": "RecipeBook",
+      "category": "Mobile",
+      "year": 2025,
+      "description": "A recipe collection for discovering dishes and saving personal favorites.",
+      "technologies": "React Native, Firebase",
+      "image": "https://picsum.photos/seed/recipebook/600/400",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example/recipebook"
+    },
+    {
+      "id": 4,
+      "title": "FinSight",
+      "category": "Data Visualization",
+      "year": 2026,
+      "description": "A personal finance dashboard that turns spending and savings data into clear visual insights.",
+      "technologies": "React, Chart.js, Express",
+      "image": "https://picsum.photos/seed/finsight/600/400",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example/finsight"
+    },
+    {
+      "id": 5,
+      "title": "StudySpace",
+      "category": "Education",
+      "year": 2024,
+      "description": "A focused study planner with timed sessions, subject progress, and weekly goals.",
+      "technologies": "JavaScript, React, Supabase",
+      "image": "https://picsum.photos/seed/studyspace/600/400",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example/studyspace"
+    },
+    {
+      "id": 6,
+      "title": "DevConnect",
+      "category": "Community",
+      "year": 2024,
+      "description": "A developer community platform for sharing projects, asking questions, and finding collaborators.",
+      "technologies": "React, Node.js, MongoDB",
+      "image": "https://picsum.photos/seed/devconnect/600/400",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example/devconnect"
+    }
+  ]
+}
